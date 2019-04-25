@@ -11,12 +11,14 @@ Rode o comando abaixo, após ter inicializado a aPI do chat message.
 ``` bash
 sudo npm run start
 ```
-Informe um nome para se identificar no chat e após entrar, pode começar a participar do chat.
+Informe um nome para se identificar e após entrar, pode começar a participar do chat.
+
+
 ---
 
 ## Host: http://localhost:3000 
 
-Para rodar em produção, faça o build do cliente e o push do build public.
+Para rodar em produção, faça o build do cliente e o push do diretório build.s
 
 ``` bash
 sudo npm run build
