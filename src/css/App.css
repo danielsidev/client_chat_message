@@ -56,6 +56,8 @@ input, textarea{
   padding: 1% 0% 1% 3%;
 
 }
+.rooms{ height: 215px;
+  overflow-y: auto;}
 .rooms > a{ cursor: pointer;}
 .rooms > a, .room-active{text-transform: capitalize;}
 
