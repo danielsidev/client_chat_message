@@ -1,4 +1,4 @@
-# ReactJS Client Client Message
+# ReactJS Client Message
 
 CLiente web em ReactJS para chat com múltiplas salas pré-definidas.
 Esse cliente foi criado com: Create React App.
